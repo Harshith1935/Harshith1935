@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi 👋 I'm Harshith Ashwath
 
-<!--
-**Harshith1935/Harshith1935** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA Final Year Student | Cloud Computing | Full Stack Web Development  
+☁️ AWS, UI/UX Design| Learning and Enhancing Cloud Computing
+📁 I build projects on Complete Full Stack Web Development with GitHub Actions, and document everything.
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack:
+- 🐝 Intermediate Web Developer (HTML,CSS,JAVASCRIPT) 
+- 🌐 AWS (EC2, S3)
+- 🐧 Git + GitHub Actions
+- 🛠 Python (Basic)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Featured Projects:
+1* Furnisphere→A Complete Full Stack Furniture Website with Homepage, Sign In/Sign up Authentications and Backend Admin Access. 
+
+## 🫧 Let’s connect on LinkedIn
+→(https://linkedin.com/in/harshith-ashwath)
