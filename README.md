@@ -13,7 +13,7 @@
 - 🛠 Python (Basic)
 
 ## 📌 Featured Projects:
-1* Furnisphere→A Complete Full Stack Furniture Website with Homepage, Sign In/Sign up Authentications and Backend Admin Access. 
+1. Furnisphere→A Complete Full Stack Furniture Website with Homepage, Sign In/Sign up Authentications and Backend Admin Access. 
 
 ## 🫧 Let’s connect on LinkedIn
 →(https://linkedin.com/in/harshith-ashwath)
