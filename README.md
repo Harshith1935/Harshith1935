@@ -1,7 +1,9 @@
-# Hi 👋 I'm Harshith Ashwath
+# Hi 👋 I'm Harshith Ashwath!
 
 🎓 BCA Final Year Student | Cloud Computing | Full Stack Web Development  
+
 ☁️ AWS, UI/UX Design| Learning and Enhancing Cloud Computing
+
 📁 I build projects on Complete Full Stack Web Development with GitHub Actions, and document everything.
 
 ## 🔧 Tech Stack:
